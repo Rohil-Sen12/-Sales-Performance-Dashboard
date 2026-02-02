@@ -23,7 +23,10 @@ Dashboard-view</a>
 <img width="1573" height="975" alt="Sales-Performance-Dashboard" src="https://github.com/user-attachments/assets/bffaa8ae-510f-4a58-b77d-01f78393ffa4" />
 
 
-2nd Tools & Technologies Used
+
+
+
+2nd. Tools & Technologies Used
 
 Microsoft Excel / Power BI
 
