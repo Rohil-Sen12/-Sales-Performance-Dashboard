@@ -1,4 +1,4 @@
-#  Sales-Performance-Dashboard
+#  📈 Sales-Performance-Dashboard
 
 The Sales Performance Dashboard provides a comprehensive and interactive view of sales data, helping businesses monitor revenue, profit, and order trends. It enables stakeholders to analyze product performance, customer behavior, and regional sales distribution, supporting data-driven decisions to improve sales efficiency and business growth.
 
