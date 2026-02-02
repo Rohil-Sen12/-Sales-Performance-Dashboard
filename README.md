@@ -28,15 +28,18 @@ Dashboard-view</a>
 
 2nd. Tools & Technologies Used
 
-Microsoft Excel / Power BI
+1.Microsoft Excel / Power BI
 
-Pivot Tables & Pivot Charts
+2.Pivot Tables & Pivot Charts
 
-Power Query for data cleaning and transformation.
+3.Power Query for data cleaning and transformation.
+
+4.Interactive Filters & Slicers
 
 
-#SalesDashboard #SalesPerformance #ExcelDashboard #PowerBIDashboard #BusinessIntelligence #DataAnalytics #DataVisualization
+## 🔗 Connect with me on LinkedIn
 
-Interactive Filters & Slicers
+👉https://www.linkedin.com/in/rohil-sen-813702392/
 
-Data Visualization Best Practices
+
+
