@@ -17,9 +17,8 @@ Key Insights
 5.Customer Insights: Identifies high-value and repeat customers
 
 6.Profitability Analysis: Evaluates profit margins and discount impact.
-
-< a href="https://github.com/Rohil-Sen12/-Sales-Performance-Dashboard/blob/main/Sales-Performance-Dashboard.png"> Dashboard View</a>
-
+- Dashboard <a href="https://github.com/Rohil-Sen12/-Sales-Performance-Dashboard/blob/main/Sales-Performance-Dashboard.png">
+Dashboard-view</a>
 
 <img width="1573" height="975" alt="Sales-Performance-Dashboard" src="https://github.com/user-attachments/assets/bffaa8ae-510f-4a58-b77d-01f78393ffa4" />
 
